@@ -52,3 +52,4 @@ This project demonstrates how to use **Amazon QuickSight** with **AWS S3** to bu
 
 ## 📬 Connect
 If you liked this project, connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavimule18/) 🚀
+<img width="1281" height="1262" alt="image" src="https://github.com/user-attachments/assets/4a41be52-bc28-4dd4-a93e-78f66388c555" />
